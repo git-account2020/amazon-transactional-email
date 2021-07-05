@@ -1,4 +1,8 @@
-<table class="left-column" align="left" width="50%">
+https://i.postimg.cc/DySqtjn8/amazon-logo.png
+https://i.postimg.cc/L6GzRt8v/didyouknow-banner.jpg
+
+
+
 
 <table class="right-column" align="right" width="50%">
 
